@@ -1,9 +1,10 @@
 # ShinyMALDI
-Shiny App to treat imzml files
+Shiny App to treat .imzml files from MALDI analysis.
 
-Instructions to use the .imzML Data Converter
+Instructions to use the .imzML Data Converter :
 Please read all the following instructions in order to correctly use the app.
-Please run the app externally with "Run External".
+First you need to download the app and open it with R Studio.
+Then run the app externally with "Run External".
 
 
 
